@@ -1,5 +1,3 @@
-pub mod solution;
-
 include!("./solution.rs");
 
 fn main() {
